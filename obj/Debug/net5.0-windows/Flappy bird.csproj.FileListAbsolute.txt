@@ -1,0 +1,38 @@
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.exe
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.deps.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.runtimeconfig.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.runtimeconfig.dev.json
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\ref\Flappy bird.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.pdb
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.AssemblyReference.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy_bird.Form1.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy_bird.Properties.Resources.resources
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.GenerateResource.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.AssemblyInfoInputs.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.AssemblyInfo.cs
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\ref\Flappy bird.dll
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.pdb
+C:\Users\KJ140205\OneDrive - Hills Road Sixth Form College\Computer Science\programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.genruntimeconfig.cache
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.exe
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.deps.json
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.runtimeconfig.json
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.runtimeconfig.dev.json
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.dll
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\ref\Flappy bird.dll
+H:\Programming\Flappy bird\bin\Debug\net5.0-windows\Flappy bird.pdb
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.AssemblyReference.cache
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy_bird.Form1.resources
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy_bird.Properties.Resources.resources
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.GenerateResource.cache
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.AssemblyInfoInputs.cache
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.AssemblyInfo.cs
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.csproj.CoreCompileInputs.cache
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.dll
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\ref\Flappy bird.dll
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.pdb
+H:\Programming\Flappy bird\obj\Debug\net5.0-windows\Flappy bird.genruntimeconfig.cache
